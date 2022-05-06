@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Killaura:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Killaura_jar</output-path>
+    <root id="archive" name="Killaura.jar">
+      <element id="module-output" name="Killaura" />
+    </root>
+  </artifact>
+</component>
